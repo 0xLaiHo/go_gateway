@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18ad750a-38ba-47c2-abb1-b1af0181043e" name="Default Changelist" comment="Admin Login">
-      <change beforePath="$PROJECT_DIR$/conf/dev/base.toml" beforeDir="false" afterPath="$PROJECT_DIR$/conf/dev/base.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/docs.go" beforeDir="false" afterPath="$PROJECT_DIR$/docs/docs.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/swagger.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/swagger.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/swagger.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/swagger.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/session_auth.go" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/session_auth.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/translation.go" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/translation.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/const.go" beforeDir="false" afterPath="$PROJECT_DIR$/public/const.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/router/route.go" beforeDir="false" afterPath="$PROJECT_DIR$/router/route.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/dev/mysql_map.toml" beforeDir="false" afterPath="$PROJECT_DIR$/conf/dev/mysql_map.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/admin.go" beforeDir="false" afterPath="$PROJECT_DIR$/controller/admin.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/admin_login.go" beforeDir="false" afterPath="$PROJECT_DIR$/controller/admin_login.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/controller/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/gin_scaffold.inf.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/gin_scaffold.inf.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

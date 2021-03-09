@@ -6,7 +6,7 @@ import (
 	"github.com/e421083458/gin_scaffold/dto"
 	"github.com/e421083458/gin_scaffold/middleware"
 	"github.com/e421083458/gin_scaffold/public"
-	"github.com/e421083458/golang_common/lib"
+	"github.com/e421083458/go_gateway/golang_common/lib"
 	"github.com/gin-gonic/contrib/sessions"
 	"github.com/gin-gonic/gin"
 	"time"
